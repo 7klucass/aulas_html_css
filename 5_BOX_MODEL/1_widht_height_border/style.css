@@ -1,0 +1,11 @@
+.Caixa-Widht {
+    /* espessura, tipo e cor => widht, style e color */
+    border-width: 2px;
+    border-style: solid;
+    border-color: #f00;
+
+    /* shorthand => vários valores na mesma propriedade */
+    border: 2px solid #f00;
+
+    width: 200px;
+}
